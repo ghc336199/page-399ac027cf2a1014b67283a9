@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "25fe4318eeadad24f036334a",
+  "owner": "ghc336199",
+  "repo": "page-399ac027cf2a1014b67283a9",
+  "title": "Clash Mi客户端快速下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "399ac027cf2a1014b67283a9",
+      "a": "买节点",
+      "b": "Clash Mi客户端快速下载",
+      "entity": "买节点",
+      "brand": "Clash Mi客户端快速下载",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "52791121c25fcb0242c951f92508de0b5e16ab8f2951e8bc337a708e509292c1",
+      "content": {
+        "primary_entity": "买节点",
+        "keyword1": "买节点",
+        "keyword2": "Clash Mi客户端快速下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选客户端，Windows、macOS、Android、iOS 各有适配版本。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "选好套餐与客户端，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐，导入订阅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档套餐，流量从每月 100GB 到 1000GB，设备数从 3 台到 20 台，适合个人、小团队及企业按需选购。",
+          "AI_FEATURES_INTRO": "围绕套餐档位、设备数量与订阅周期，三项特点帮助你更快做决定。",
+          "AI_FEATURES_TITLE": "特点速览",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，旗舰版每月 300GB、5 台设备，团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TEXT_2": "客户端覆盖主流桌面与移动系统，Clash 类客户端可导入订阅链接完成配置。",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "套餐按需选择",
+          "AI_FEATURE_TITLE_2": "多端客户端适配",
+          "AI_FEATURE_TITLE_3": "月付年付灵活",
+          "AI_GUIDE_INTRO": "三步完成从选购到连通的流程，按客户端文档操作即可。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_HERO_INTRO": "买节点时按实际用量选套餐更省心。基础版适合轻度上网，旗舰版兼顾流媒体与游戏加速，团队版提供高带宽与多设备在线。选定后下载对应客户端、导入订阅，即可在常用设备上使用。",
+          "AI_HERO_SUBTITLE": "按需选套餐，轻松连世界",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "流量与设备数清晰可对比",
+          "AI_HIGHLIGHT_3": "主流客户端均可导入订阅",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版适合影音与游戏，团队版满足多设备高带宽需求。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "对照流量、设备数量和预算，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认常用设备的系统版本，查看对应客户端是否支持订阅导入。",
+          "AI_STEP_TEXT_3": "在所选客户端中新建订阅并粘贴链接，按客户端文档完成更新与连接。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "选套餐，连世界",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制、流量额度与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐主要差在哪里？",
+          "AI_FAQ_ANSWER_1": "基础版提供每月 100GB 与 3 台设备；旗舰版升级到 300GB、5 台设备，并含专线加速与优先工单；团队版为 1000GB、20 台设备，支持定制路由。",
+          "AI_FAQ_QUESTION_2": "年付会比月付便宜多少？",
+          "AI_FAQ_ANSWER_2": "基础版年付 150 元、旗舰版 350 元、团队版 850 元，相当于每月 12.5 元、约 29 元与约 71 元，比对应月付价格更低。",
+          "AI_FAQ_QUESTION_3": "可以同时在多台设备上用吗？",
+          "AI_FAQ_ANSWER_3": "每档套餐都有同时在线设备上限，分别为 3 台、5 台与 20 台，超出后需减少在线设备或升级套餐。",
+          "AI_FAQ_QUESTION_4": "订阅怎么导入客户端？",
+          "AI_FAQ_ANSWER_4": "在对应客户端中找到订阅或配置导入入口，粘贴订阅信息后保存并更新节点列表，具体步骤参考客户端自带文档。",
+          "AI_FAQ_QUESTION_5": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_5": "可等待下个计费周期重置，或升级到更高流量档位；团队版 1000GB 适合多设备长时间使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "7b3903c525c56be3b14a6e83f8b4bc5873a5ad0e09f0ddc77a3fc97b9e2c3230",
+    "sitemap.xml": "6f9faa8bb4dff27f8c2e9faa10e90eef309d87d32071011b4423831c15238968",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "904795db3a1456209588b278fbdeaea5dc885c3a5311e92c1a6cb12f1353eebd"
+}
